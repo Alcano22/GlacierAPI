@@ -1,0 +1,4 @@
+com\alcano\glacier\core\GameLoop.class
+com\alcano\glacier\window\Window.class
+com\alcano\glacier\core\GlacierAPI.class
+com\alcano\glacier\window\GameWindow.class
